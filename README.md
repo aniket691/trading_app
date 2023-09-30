@@ -1,4 +1,4 @@
-#Stock Market App
+# Stock Market App
 
 Description:
 Welcome to our Stock Trading App, a powerful tool designed for both novice and experienced traders! Our app harnesses the latest technology to provide you with real-time data from stock market APIs, enabling you to make informed investment decisions with ease.
